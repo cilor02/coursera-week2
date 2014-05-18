@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- string take[0m[0m
+[0m[[0minfo[0m] [0m[32m- adding ints[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff between multiples of 5 and multiples of 2 [0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect of multiples of 5 and multiples of 2 [0m[0m
+[0m[[0minfo[0m] [0m[32m- union of multiples of 5 and multiples of 2 [0m[0m
+[0m[[0minfo[0m] [0m[32m- map  multiples of 5 mapped => x + 2 [0m[0m
+[0m[[0minfo[0m] [0m[32m- misc mapping tests[0m[0m
+[0m[[0minfo[0m] [0m[32m- various contains test[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter tests[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists tests[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall tests[0m[0m
